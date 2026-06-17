@@ -1,0 +1,42 @@
+{
+    "Beaver-Safe-1000-1": {
+        "file_name": "./output/qwen3/Beaver-SQDS/data/5_1000/sample_1.jsonl",
+        "columns": {
+            "prompt": "instruction",
+            "query": "context",
+            "response": "response"
+        }
+    },
+    "Beaver-Safe-1000-2": {
+        "file_name": "./output/qwen3/Beaver-SQDS/data/5_1000/sample_2.jsonl",
+        "columns": {
+            "prompt": "instruction",
+            "query": "context",
+            "response": "response"
+        }
+    },
+    "Beaver-Safe-1000-3": {
+        "file_name": "./output/qwen3/Beaver-SQDS/data/5_1000/sample_3.jsonl",
+        "columns": {
+            "prompt": "instruction",
+            "query": "context",
+            "response": "response"
+        }
+    },
+    "Beaver-Safe-1000-4": {
+        "file_name": "./output/qwen3/Beaver-SQDS/data/5_1000/sample_4.jsonl",
+        "columns": {
+            "prompt": "instruction",
+            "query": "context",
+            "response": "response"
+        }
+    },
+    "Beaver-Safe-1000-5": {
+        "file_name": "./output/qwen3/Beaver-SQDS/data/5_1000/sample_5.jsonl",
+        "columns": {
+            "prompt": "instruction",
+            "query": "context",
+            "response": "response"
+        }
+    }
+}
